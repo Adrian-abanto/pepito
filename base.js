@@ -1,2 +1,2 @@
 var x="test";
-var a='x'
+var a='x';
